@@ -4,7 +4,7 @@
 
 ## 数据格式
 
-每条数据存储为dict()，case为案情描述，triples为三元组。
+每条数据存储为dict，case为案情描述，triples为对应三元组。
 
 ```json
 {
